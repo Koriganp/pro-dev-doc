@@ -3,7 +3,6 @@ html {
 	font-size: 1em;
 	font-family: 'Raleway', sans-serif;
 	text-align: justify;
-	background-color: antiquewhite;
 	position: relative;
 	min-height: 100%;
 }
@@ -71,6 +70,11 @@ body {
 	.column.side, .column.middle {
 		width: 100%;
 	}
+}
+
+#sandia {
+	max-width: 50%;
+	max-height: 50%;
 }
 
 .footer {
