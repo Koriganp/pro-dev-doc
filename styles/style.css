@@ -8,3 +8,29 @@ html {
 h1 {
 	font-size: 3em;
 }
+
+/*Navigation Bar style*/
+#mediaLinks {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+.myLinks {
+	float: left;
+}
+
+.myLinks a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* Change the link black on hover*/
+.myLinks a:hover {
+	background-color: #111;
+}
