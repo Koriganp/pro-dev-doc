@@ -5,8 +5,11 @@ html {
 	text-align: justify;
 }
 
-h1 {
+.header {
 	font-size: 3em;
+	background-color: burlywood;
+	text-align: center;
+	padding: 20px;
 }
 
 /*Navigation Bar style*/
