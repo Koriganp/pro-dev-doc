@@ -83,6 +83,17 @@ body {
 	text-align: center;
 }
 
+/*Added <div> tag to allow centering of child elements*/
+.skillList {
+	text-align: center;
+}
+
+/*Centered list*/
+ul {
+	display: inline-block;
+	text-align: left;
+}
+
 /*Position footer*/
 .footer {
 	position: absolute;
