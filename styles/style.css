@@ -1,0 +1,10 @@
+/*Change font for page and make universal for devices*/
+html {
+	font-size: 1em;
+	font-family: 'Raleway', sans-serif;
+	text-align: justify;
+}
+
+h1 {
+	font-size: 3em;
+}
