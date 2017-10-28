@@ -52,11 +52,11 @@ body {
 }
 
 .column.side {
-	width: 15%;
+	width: 25%;
 }
 
 .column.middle {
-	width: 60%;
+	width: 50%;
 }
 
 .row:after {
